@@ -1,0 +1,9 @@
+body {background-color: #fff;}
+.jumbotron .h1, .jumbotron h1, p {
+    color: #000;
+}
+.btn-primary {
+    color: #000;
+    background-color: #CCFFCC;
+    border-color: #000;
+}
