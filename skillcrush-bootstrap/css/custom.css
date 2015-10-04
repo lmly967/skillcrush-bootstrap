@@ -1,11 +1,18 @@
-body {background-color: #fff;}
+body {background-color: #fff;font-family: sans-serif;}
 .jumbotron .h1, .jumbotron h1, p, .navbar-default .navbar-brand{
     color: #000;
 }
 .btn-primary {
     color: #000;
-    background-color: #CCFFCC;
+    background-color: #A680A6;
     border-color: #000;
 }
 
-.navbar {margin-bottom: 0px; }
+/* ------------- Navigation --------- */
+
+.navbar {margin-bottom: 0px; font-family: sans-serif;}
+
+.navbar-default .navbar-nav > li > a {background: #E4E4E4
+;
+ 
+}
